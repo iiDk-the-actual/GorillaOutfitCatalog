@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GorillaOutfitCatalog", "GorillaOutfitCatalog.csproj", "{B38F8420-DFBC-441F-99B0-8E2B3BA3FBAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B38F8420-DFBC-441F-99B0-8E2B3BA3FBAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B38F8420-DFBC-441F-99B0-8E2B3BA3FBAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B38F8420-DFBC-441F-99B0-8E2B3BA3FBAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B38F8420-DFBC-441F-99B0-8E2B3BA3FBAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A0EF007-71EB-451D-B0AD-970025D8B0C0}
+	EndGlobalSection
+EndGlobal
