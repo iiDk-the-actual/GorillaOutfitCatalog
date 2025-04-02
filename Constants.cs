@@ -6,6 +6,6 @@ namespace GorillaOutfitCatalog
 	{
 		public const string Guid = "com.goldentrophyxdev.gorillatag.outfitcatalog";
 		public const string Name = "GorillaOutftCatalog";
-		public const string Version = "1.1.0";
+		public const string Version = "1.1.1";
 	}
 }
