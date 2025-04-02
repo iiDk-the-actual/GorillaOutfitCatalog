@@ -52,7 +52,7 @@ namespace GorillaOutfitCatalog.Behaviours.Helpers
 			GorillaTagger.Instance.UpdateColor(r, g, b);
 
 			if (PhotonNetwork.InRoom && GorillaTagger.Instance.myVRRig != null)
-				GorillaTagger.Instance.myVRRig.SendRPC("InitializeNoobMaterial", RpcTarget.All, new object[] { r, g, b, true });
+				GorillaTagger.Instance.myVRRig.SendRPC("RPC_InitializeNoobMaterial", RpcTarget.All, new object[] { r, g, b });
 			
 			PlayerPrefs.Save();
 
