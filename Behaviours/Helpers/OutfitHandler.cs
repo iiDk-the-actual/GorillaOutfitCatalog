@@ -42,7 +42,6 @@ namespace GorillaOutfitCatalog.Behaviours.Helpers
 			float b = outfit.Colour.b;
 			string name = outfit.Name;
 			PhotonNetwork.LocalPlayer.NickName = name;
-			GorillaComputer.instance.offlineVRRigNametagText.text = name;
 			GorillaComputer.instance.currentName = name;
 			GorillaComputer.instance.savedName = name;
 			PlayerPrefs.SetString("playerName", name);
