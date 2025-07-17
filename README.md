@@ -1,3 +1,7 @@
+# This mod is no longer being maintained.
+A way better version of the mod that is implemented better and cleaner can be found here:
+[https://github.com/developer9998/GorillaAvatarCatalog](https://github.com/developer9998/GorillaAvatarCatalog)
+
 # GorillaOutfitCatalog
 A mod for Gorilla Tag that lets you save and load outfits.
 
