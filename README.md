@@ -7,7 +7,7 @@ Full credits go to the original mod creator [@developer9998](https://github.com/
 
 # Installation
 
-- Install Extenject from MonkeModManager
+- Install Bepinject and Extenject from MonkeModManager
 - Download the release from [here](https://github.com/iiDk-the-actual/GorillaOutfitCatalog/releases/latest)
 - Drag the file `GorillaOutfitCatalog.dll` to your plugins folder
 - Start Gorilla Tag if needed
